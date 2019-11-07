@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.joycastle.advertise.admob"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="28" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true" >
+        <meta-data
+            android:name="admob_app_id"
+            android:value="@string/admob_app_id" />
+        <meta-data
+            android:name="admob_banner_id"
+            android:value="@string/admob_banner_id" />
+        <meta-data
+            android:name="admob_interstitial_id"
+            android:value="@string/admob_interstitial_id" />
+        <meta-data
+            android:name="admob_video_id"
+            android:value="@string/admob_video_id" />
+        <meta-data
+            android:name="admob_test_device_id"
+            android:value="@string/admob_test_device_id" />
+    </application>
+
+</manifest>
