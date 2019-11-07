@@ -16,24 +16,9 @@ buildscript {
 
 allprojects {
     repositories {
-        jcenter()
-        maven { url "https://jitpack.io" }
-        maven {
-            url "https://maven.google.com"
-        }
-        maven {
-            url  "https://adcolony.bintray.com/AdColony"
-        }
-        maven {
-            url "http://kochava.bintray.com/maven"
-        }
-        maven {
-            url 'http://maven.gameanalytics.com/release'
-        }
-        maven {
-            url "https://s3.amazonaws.com/moat-sdk-builds"
-        }
         google()
+        jcenter()
+        
     }
 }
 
