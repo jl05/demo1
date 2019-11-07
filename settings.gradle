@@ -1,1 +1,0 @@
-include ':app', ':gameplugin', ':gameplugin_base', ':analytic_flurry', ':social_facebook', ':advertise_admob', ':advertise_adcolony', ':iap_googleplay', ':advertise_admob_adapter_applovin', ':advertise_admob_adapter_vungle', ':advertise_admob_adapter_facebook', ':analytic_facebook', ':analytic_kochava', ':analytic_gameanalytics', ':advertise_mopub'
