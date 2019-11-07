@@ -1,0 +1,1 @@
+package com.joycastle.gameplugin;public class CallCppTool {    /**     * Java调用C++函数     * @param linkId     */    public static native void deepLink(int linkId);}

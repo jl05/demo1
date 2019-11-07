@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My_Analytic_Flurry</string>
+    <string name="flurry_key">flurry_key</string>
+</resources>

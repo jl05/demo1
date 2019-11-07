@@ -1,0 +1,67 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+
+
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+
+
+    defaultConfig {
+        applicationId "com.gameplugin.app"
+        minSdkVersion 16
+        targetSdkVersion 28
+//        versionCode 122
+//        versionName "1.0"
+        versionCode 18
+        versionName "2.6.2"
+        multiDexEnabled true
+        ndk {
+            abiFilters "armeabi", "x86"
+        }
+        sourceSets.main {
+            assets.srcDir "src/main/assets"
+            jniLibs.srcDir 'src/main/libs'
+            jni.srcDirs = []
+        }
+    }
+    buildTypes {
+        debug{
+            resValue "integer", "game_mode", "3"
+            minifyEnabled false
+            debuggable true
+        }
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+//    testImplementation 'junit:junit:4.12'
+//    implementation 'com.android.support:design:28.0.0'
+    implementation 'androidx.multidex:multidex:2.0.0'
+    implementation project(path: ':gameplugin_base');
+    implementation project(path: ':gameplugin')
+    implementation project(path: ':advertise_admob')
+    implementation project(path: ':analytic_flurry')
+    implementation project(path: ':analytic_kochava')
+    implementation project(path: ':analytic_gameanalytics')
+    implementation project(path: ':analytic_facebook')
+    implementation project(path: ':advertise_admob_adapter_vungle')
+    implementation project(path: ':advertise_admob_adapter_applovin')
+    implementation project(path: ':advertise_admob_adapter_facebook')
+    implementation project(path: ':iap_googleplay')
+    implementation project(path: ':social_facebook')
+    implementation project(path: ':advertise_mopub')
+
+}
+

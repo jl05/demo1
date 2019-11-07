@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="admob_app_id">ca-app-pub-9274282740568260~7977987594</string>
-    <string name="admob_banner_id">banner_ad_unit_id</string>
-    <string name="admob_interstitial_id">ca-app-pub-9274282740568260/1808342671</string>
-    <string name="admob_test_device_id">4258574fe1cc47ea897030ce840c886b</string>
-    <string name="admob_video_id">ca-app-pub-9274282740568260/7235751563</string>
-    <string name="app_name">My Application</string>
-</resources>

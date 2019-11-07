@@ -1,0 +1,1 @@
+<resources>    <string name="app_name">analytic_GameAnalytics</string>    <string name="gameanalytics_game_key"></string>    <string name="gameanalytics_secret_key"></string></resources>
