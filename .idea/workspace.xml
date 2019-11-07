@@ -1,398 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0feb791a-1fc7-474f-a68b-193c5469d4ac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_adcolony/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_adcolony/advertise_adcolony.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_adcolony/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_adcolony/libs/adcolony.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_adcolony/libs/armeabi/libImmEndpointWarpJ.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_adcolony/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_adcolony/src/androidTest/java/com/joycastle/advertise/adcolony/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_adcolony/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_adcolony/src/main/java/com/joycastle/advertise/adcolony/ACAdvertiseHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_adcolony/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_adcolony/src/test/java/com/joycastle/advertise/adcolony/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob/advertise_admob.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob/src/androidTest/java/com/joycastle/advertise/admob/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob/src/main/java/com/joycastle/advertise/admob/AMAdvertiseHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob/src/test/java/com/joycastle/advertise/admob/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_applovin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_applovin/advertise_admob_adapter_applovin.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_applovin/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_applovin/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_applovin/src/androidTest/java/com/joycastle/advertise/admob/adapter/applovin/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_applovin/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_applovin/src/main/java/com/joycastle/advertise/admob/adapter/applovin/APAdvertiseHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_applovin/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_applovin/src/test/java/com/joycastle/advertise/admob/adapter/applovin/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_facebook/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_facebook/advertise_admob_adapter_facebook.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_facebook/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_facebook/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_facebook/src/androidTest/java/com/joycastle/advertise/admob/adapter/facebook/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_facebook/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_facebook/src/main/java/com/joycastle/advertise/admob/adapter/facebook/FBAdvertiseHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_facebook/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_facebook/src/test/java/com/joycastle/advertise/admob/adapter/facebook/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_vungle/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_vungle/advertise_admob_adapter_vungle.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_vungle/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_vungle/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_vungle/src/androidTest/java/com/joycastle/advertise/admob/adapter/vungle/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_vungle/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_vungle/src/main/java/com/joycastle/advertise/admob/adapter/vungle/VGAdvertiseHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_vungle/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_admob_adapter_vungle/src/test/java/com/joycastle/advertise/admob/adapter/vungle/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_mopub/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_mopub/advertise_mopub.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_mopub/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_mopub/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_mopub/src/androidTest/java/com/joycastle/advertise/mopub/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_mopub/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_mopub/src/main/java/com/joycastle/advertise/mopub/MoPubAdvertiseHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_mopub/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/advertise_mopub/src/test/java/com/joycastle/advertise/mopub/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_facebook/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_facebook/analytic_facebook.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_facebook/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_facebook/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_facebook/src/androidTest/java/com/joycastle/analytic/facebook/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_facebook/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_facebook/src/main/java/com/joycastle/analytic/facebook/FBAnalyticHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_facebook/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_facebook/src/test/java/com/joycastle/analytic/facebook/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_flurry/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_flurry/analytic_flurry.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_flurry/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_flurry/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_flurry/src/androidTest/java/com/joycastle/analytic/flurry/ApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_flurry/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_flurry/src/main/java/com/joycastle/analytic/flurry/FLAnalyticHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_flurry/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_flurry/src/test/java/com/joycastle/analytic/flurry/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_gameanalytics/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_gameanalytics/analytic_gameanalytics.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_gameanalytics/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_gameanalytics/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_gameanalytics/src/androidTest/java/com/joycastle/analytic/gameanalytics/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_gameanalytics/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_gameanalytics/src/main/java/com/joycastle/analytic/gameanalytics/GameAnalyticsHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_gameanalytics/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_gameanalytics/src/test/java/com/joycastle/analytic/gameanalytics/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_kochava/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_kochava/analytic_kochava.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_kochava/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_kochava/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_kochava/src/androidTest/java/com/joycastle/analytic/kochava/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_kochava/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_kochava/src/main/java/com/joycastle/analytic/kochava/KCAnalyticHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_kochava/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytic_kochava/src/test/java/com/joycastle/analytic/kochava/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/cocos2dx/lua/ApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/cocos2dx/lua/AppActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/cocos2dx/lua/MyApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/jni/Android.mk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/jni/Application.mk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/jni/hellolua/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/libs/armeabi/libcocos2dlua.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/obj/local/armeabi/libcocos2dlua.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/obj/local/armeabi/objs/cocos2dlua_shared/hellolua/main.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/obj/local/armeabi/objs/cocos2dlua_shared/hellolua/main.o.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-v28/style.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/org/cocos2dx/lua/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/test.jks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-01-49-835.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-01-49-835.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-32-46-137.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-32-46-137.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-33-10-852.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-33-10-852.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-37-14-031.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-37-14-031.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-37-38-708.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-37-38-708.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-39-51-779.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-39-51-779.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-40-07-477.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-40-07-477.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-42-06-250.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-42-06-250.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-42-23-345.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-42-23-345.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-44-34-172.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-44-34-172.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-44-53-411.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-44-53-411.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-47-07-462.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-47-07-462.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-47-22-543.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-47-22-543.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-48-55-415.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-48-55-415.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-49-14-483.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-49-14-483.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-53-08-086.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-53-08-086.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-53-47-952.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-16-53-47-952.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-17-00-07-787.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-17-00-07-787.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-17-03-27-097.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-17-03-27-097.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-17-03-51-792.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-17-03-51-792.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-17-04-06-248.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-17-04-06-248.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-17-05-45-640.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-17-05-45-640.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-17-06-34-355.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-17-06-34-355.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-17-07-27-790.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-03-26-17-07-27-790.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-11-14-01-50-960.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-11-14-01-50-960.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-11-14-04-37-550.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-11-14-04-37-550.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-11-14-05-03-852.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-11-14-05-03-852.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-11-14-06-38-409.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-11-14-06-38-409.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-11-14-06-59-060.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-11-14-06-59-060.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-11-14-07-30-657.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-11-14-07-30-657.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-11-14-09-04-317.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-11-14-09-04-317.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-11-14-27-57-086.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-11-14-27-57-086.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-15-51-10-007.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-15-51-10-007.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-15-51-52-392.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-15-51-52-392.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-03-44-308.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-03-44-308.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-05-12-965.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-05-12-965.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-05-39-005.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-05-39-005.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-09-44-507.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-09-44-507.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-18-51-708.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-18-51-708.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-22-27-163.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-22-27-163.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-27-38-954.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-27-38-954.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-30-44-715.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-30-44-715.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-31-50-198.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-31-50-198.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-33-42-929.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-33-42-929.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-34-22-532.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-34-22-532.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-37-41-106.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-37-41-106.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-38-41-093.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-38-41-093.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-40-42-502.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-40-42-502.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-42-47-661.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-42-47-661.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-47-17-772.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-47-17-772.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-51-04-183.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-51-04-183.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-51-51-747.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-51-51-747.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-53-22-234.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-53-22-234.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-55-39-795.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-55-39-795.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-58-46-372.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-58-46-372.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-59-46-340.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-16-59-46-340.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-02-15-829.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-02-15-829.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-03-14-851.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-03-14-851.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-04-21-820.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-04-21-820.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-05-03-290.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-05-03-290.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-07-27-676.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-07-27-676.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-08-15-149.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-08-15-149.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-11-35-551.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-11-35-551.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-12-37-098.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-12-37-098.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-13-40-788.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-13-40-788.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-14-37-742.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-22-17-14-37-742.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-04-50-287.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-04-50-287.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-06-11-746.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-06-11-746.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-07-10-938.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-07-10-938.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-12-43-073.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-12-43-073.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-29-08-613.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-29-08-613.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-29-45-666.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-29-45-666.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-32-42-589.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-32-42-589.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-34-20-620.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-34-20-620.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-34-47-179.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-34-47-179.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-40-26-123.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-40-26-123.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-41-06-998.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-41-06-998.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-41-30-452.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-41-30-452.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-43-57-303.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-43-57-303.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-44-23-735.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-44-23-735.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-46-45-743.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-46-45-743.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-49-30-187.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-49-30-187.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-49-44-774.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-49-44-774.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-53-58-289.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-53-58-289.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-54-13-024.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-54-13-024.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-58-38-526.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-58-38-526.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-59-12-114.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-14-59-12-114.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-01-04-942.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-01-04-942.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-01-31-572.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-01-31-572.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-05-24-530.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-05-24-530.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-05-52-964.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-05-52-964.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-07-25-449.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-07-25-449.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-09-09-338.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-09-09-338.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-09-26-158.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-09-26-158.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-16-25-222.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-16-25-222.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-16-54-636.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-16-54-636.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-17-21-937.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-17-21-937.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-18-10-038.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-18-10-038.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-19-11-680.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-19-11-680.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-21-53-595.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-21-53-595.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-22-10-186.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-22-10-186.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-26-05-751.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2019-04-23-15-26-05-751.rawproto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gamePlugin_android.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin/gameplugin.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin/src/androidTest/java/com/joycastle/gameplugin/ApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin/src/main/java/com/joycastle/gameplugin/AdvertiseHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin/src/main/java/com/joycastle/gameplugin/AnalyticHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin/src/main/java/com/joycastle/gameplugin/CallCppTool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin/src/main/java/com/joycastle/gameplugin/GamePlugin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin/src/main/java/com/joycastle/gameplugin/NativeUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin/src/test/java/com/joycastle/gameplugin/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin_base/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin_base/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin_base/gameplugin_base.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin_base/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin_base/src/androidTest/java/com/joycastle/gamepluginbase/ApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin_base/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin_base/src/main/java/com/joycastle/gamepluginbase/AdvertiseDelegate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin_base/src/main/java/com/joycastle/gamepluginbase/AnalyticDelegate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin_base/src/main/java/com/joycastle/gamepluginbase/InvokeJavaMethodDelegate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin_base/src/main/java/com/joycastle/gamepluginbase/LifeCycleDelegate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin_base/src/main/java/com/joycastle/gamepluginbase/NotificationClickReceiver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin_base/src/main/java/com/joycastle/gamepluginbase/NotificationPublisher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin_base/src/main/java/com/joycastle/gamepluginbase/SystemUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin_base/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin_base/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplugin_base/src/test/java/com/joycastle/gamepluginbase/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iap_googleplay/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iap_googleplay/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iap_googleplay/iap_googleplay.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iap_googleplay/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iap_googleplay/src/androidTest/java/com/joycastle/iab/googleplay/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iap_googleplay/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iap_googleplay/src/main/aidl/com/android/vending/billing/IInAppBillingService.aidl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iap_googleplay/src/main/java/com/joycastle/iab/googleplay/GoogleIabHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iap_googleplay/src/main/java/com/joycastle/iab/googleplay/util/IabBroadcastReceiver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iap_googleplay/src/main/java/com/joycastle/iab/googleplay/util/IabException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iap_googleplay/src/main/java/com/joycastle/iab/googleplay/util/IabHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iap_googleplay/src/main/java/com/joycastle/iab/googleplay/util/IabResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iap_googleplay/src/main/java/com/joycastle/iab/googleplay/util/Inventory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iap_googleplay/src/main/java/com/joycastle/iab/googleplay/util/Purchase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iap_googleplay/src/main/java/com/joycastle/iab/googleplay/util/Security.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iap_googleplay/src/main/java/com/joycastle/iab/googleplay/util/SkuDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iap_googleplay/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iap_googleplay/src/test/java/com/joycastle/iab/googleplay/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/social_facebook/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/social_facebook/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/social_facebook/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/social_facebook/social_facebook.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/social_facebook/src/androidTest/java/com/joycastle/my_facebook/ApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/social_facebook/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/social_facebook/src/main/java/com/joycastle/my_facebook/FacebookHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/social_facebook/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/social_facebook/src/test/java/com/joycastle/my_facebook/ExampleUnitTest.java" beforeDir="false" />
+    <list default="true" id="40624155-cdc1-431c-826d-9c6dfffd6d4c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/java/com/example/myapplication/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/app/src/test/java/com/example/myapplication/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/settings.gradle" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -407,22 +67,59 @@
       </state>
     </system>
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+          <provider editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/myapplication/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2356" />
-    <option name="y" value="408" />
+    <option name="x" value="2084" />
+    <option name="y" value="46" />
     <option name="width" value="1656" />
     <option name="height" value="972" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="demo1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="demo1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="myapplication" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane" />
     </panes>
   </component>
@@ -430,8 +127,6 @@
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunDashboard">
@@ -454,22 +149,76 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0feb791a-1fc7-474f-a68b-193c5469d4ac" name="Default Changelist" comment="" />
-      <created>1573114938634</created>
+      <changelist id="40624155-cdc1-431c-826d-9c6dfffd6d4c" name="Default Changelist" comment="" />
+      <created>1573120265897</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573114938634</updated>
+      <updated>1573120265897</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2356" y="408" width="1656" height="972" extended-state="0" />
+    <frame x="2084" y="46" width="1656" height="972" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32971016" />
       <window_info id="Structure" side_tool="true" />
@@ -479,17 +228,29 @@
       <window_info id="Resources Explorer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Logcat" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" visible="true" weight="0.32963374" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Gradle" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Palette&#9;" />
     </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/myapplication/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
